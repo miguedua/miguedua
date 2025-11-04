@@ -13,3 +13,7 @@ Analista de datos
 📫 Cómo contactarme: [Tu correo o LinkedIn] (puedo ayudarte a redactar uno profesional si me lo das).
 😄 Pronombres: Él
 ⚡ Dato curioso: Me encanta descubrir cómo los pequeños patrones en los datos pueden contar grandes historias — y disfruto enseñar a otros a verlos también.
+
+
+habilidades:
+Lenguajes: Python (intermedio), SQL (intermedio)  Visualización: Dash, Plotly, Matplotlib (intermedio) / Análisis y estadística: Pandas, NumPy, U-Test Mann-Whitney, Tableau (básico/intermedio) / Herramientas: Jupyter Notebook, VS Code, GitHub 
