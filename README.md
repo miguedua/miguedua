@@ -15,5 +15,51 @@ Analista de datos
 ⚡ Dato curioso: Me encanta descubrir cómo los pequeños patrones en los datos pueden contar grandes historias — y disfruto enseñar a otros a verlos también.
 
 
-habilidades:
-Lenguajes: Python (intermedio), SQL (intermedio)  Visualización: Dash, Plotly, Matplotlib (intermedio) / Análisis y estadística: Pandas, NumPy, U-Test Mann-Whitney, Tableau (básico/intermedio) / Herramientas: Jupyter Notebook, VS Code, GitHub 
+## 💻 Stack Tecnológico  
+
+**Lenguajes y Librerías:**  
+🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy)  
+🗄️ SQL (MySQL, PostgreSQL)  
+📊 Power BI | Tableau   
+🧪 Estadística | Pruebas de hipótesis | Visualización de datos  
+
+**Herramientas y Entornos:**  
+🧩 Jupyter Notebook | Visual Studio Code  
+🌐 Git & GitHub | Integración de APIs | Flask  
+
+---
+
+## 📂 Proyectos Destacados  
+
+### 🧹 Limpieza y Preparación de Datos con Python  
+- Transformación de datos crudos usando Pandas y NumPy.  
+- Obtención de un dataset estructurado y listo para el análisis.  
+
+### 📞 Análisis de Clientes – Megaline  
+- Comparación del desempeño entre los planes prepago “Surf” y “Ultimate”.  
+- El plan **Ultimate** generó un **12% más de ingresos promedio por cliente**.  
+
+### 🎮 Análisis de Videojuegos (Dataset de Kaggle)  
+- Análisis de más de 16.000 títulos a nivel mundial.  
+- Identificación de factores de éxito por género, región y plataforma.  
+
+### 📊 Dashboard de Tendencias en YouTube (Tableau)  
+- Creación de un dashboard interactivo con filtros por región y fecha.  
+- Se descubrió que las categorías **Entretenimiento** y **Música** son las más populares globalmente.  
+
+### 🧠 Pruebas de Hipótesis y Análisis Estadístico  
+- Aplicación de pruebas t, ANOVA y de proporciones para validar hipótesis empresariales.  
+
+### 📈 Proyecto Final de Análisis de Datos (Python + SQL + Power BI)  
+- Integración completa de Python, SQL y Power BI en un flujo de análisis de datos.  
+- Dashboard con indicadores clave (KPIs), segmentación de usuarios y análisis temporal.  
+
+---
+
+## 📬 Contacto  
+- 💼 [LinkedIn](www.linkedin.com/in/miguel-oswaldo-peña-duarte
+)   
+
+---
+
+⭐️ _“Los datos convierten la información en comprensión, y la comprensión en acción.”_  
